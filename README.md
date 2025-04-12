@@ -1,4 +1,4 @@
-### Quels pays d’Asie géraient le mieux la crise du COVID-19 et lesquels étaient en difficulté en 2021 ? Une analyse par les k-means.
+### Quels pays d’Asie géraient le mieux la crise du COVID-19 en 2021 ? Une analyse par les k-means.
 
 ![Visualisation COVID](figures/Effective-Data-Visualization-In-the-Era-of-COVID-19.jpg)
 
